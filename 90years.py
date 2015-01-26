@@ -1,3 +1,7 @@
+'''
+Try and calculate the population change between 2010 and 2100. Remember the lesson about doing integer divison. Convert one of the numbers to floating point decimal by using the float() function. Which continent is estimated to grow the most in the next 90 years?
+'''
+
 import collections
 dict2010 = collections.defaultdict(float)
 dict2100 = collections.defaultdict(float)
